@@ -1,0 +1,11 @@
+{
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "editor.fontSize": 18,
+    "editor.insertSpaces": true,
+    "dart.analysisExcludedFolders": [
+        "build",
+        ".dart_tool"
+    ],
+    "dart.lineLength": 120
+}
